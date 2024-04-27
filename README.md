@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **The Daily Flow (Astro js Web App)**
 
-- 🌱 I’m currently learning **Astro Js, React, Angular**
+- 🌱 I’m currently learning **Astro Js, React, Laravel**
 
 - 📫 How to reach me **mohawade23@gmail.com**
 
