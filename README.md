@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohawade23@gmail.com**
 
-- ⚡ Fun fact **I think i'm fun and i have good jokes**
+- ⚡ Fun fact **I'm fun and i have good jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
