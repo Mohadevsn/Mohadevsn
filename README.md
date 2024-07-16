@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Wade</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn" alt="mohadevsn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn&theme=onedark" alt="mohadevsn" /></a> </p>
 
 - 🔭 I’m currently working on **The Daily Flow (Astro js Web App)**
 
