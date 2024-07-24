@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohadevsn&theme=tokyonight" alt="mohadevsn" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/mohadevsn/mohadevsn/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
