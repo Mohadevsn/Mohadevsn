@@ -27,9 +27,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohadevsn&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="mohadevsn" /></p>
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohadevsn&theme=tokyonight" alt="mohadevsn" /></p>
 
 ![snake gif](https://github.com/mohadevsn/mohadevsn/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mohadevsn/count.svg" />
+</p>
 
 
 
