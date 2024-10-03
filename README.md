@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn&theme=onedark" alt="mohadevsn" /></a> </p>
 
-- 🔭 I’m currently working on **The Daily Flow (Astro js Web App)**
+- 🔭 I’m currently working on **MohaDevSn Portofolio**
 
-- 🌱 I’m currently learning **Astro Js, React and Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **mohawade23@gmail.com**
 
