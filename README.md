@@ -36,6 +36,9 @@
 
 ![snake gif](https://github.com/mohadevsn/mohadevsn/blob/output/github-contribution-grid-snake-dark.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mohadevsn/count.svg" />
