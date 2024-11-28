@@ -37,6 +37,7 @@
 ![snake gif](https://github.com/mohadevsn/mohadevsn/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/397639f1-cca5-434c-834d-c937660d3bcb.svg)](https://wakatime.com/@397639f1-cca5-434c-834d-c937660d3bcb)
 <!--END_SECTION:waka-->
 
 <p align="center">
