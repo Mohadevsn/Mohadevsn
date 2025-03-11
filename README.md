@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn&theme=onedark" alt="mohadevsn" /></a> </p>
 
-- 🔭 I’m currently working on **MohaDevSn Portofolio**
+- 🔭 I’m currently working on **E commerce Web App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Fast Api**
 
 - 📫 How to reach me **mohawade23@gmail.com**
 
