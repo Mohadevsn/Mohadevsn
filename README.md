@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Wade</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">CS Student & Software Developer | Full-Stack • DevOps Curious</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn&theme=onedark" alt="mohadevsn" /></a> </p>
 
@@ -38,10 +38,7 @@
 
 
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mohadevsn/count.svg" />
-</p>
+
 
 
 
