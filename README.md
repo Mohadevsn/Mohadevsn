@@ -26,14 +26,14 @@
  <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohadevsn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohadevsn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohadevsn&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="mohadevsn" /></p>
 
-
-
+![Wakatime Stats](https://wakatime.com/share/@397639f1-cca5-434c-834d-c937660d3bcb/ffab768b-5829-4b81-8f42-cc57a2693f5d.svg)
 
 ![snake gif](https://github.com/mohadevsn/mohadevsn/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 
