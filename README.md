@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Wade</h1>
 <h3 align="center">CS Student & Software Developer | Full-Stack • DevOps Curious</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn&theme=onedark" alt="mohadevsn" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohadevsn&theme=onedark" alt="mohadevsn" /></a> </p> -->
 
 - 🔭 I’m currently working on **Confidential project**
 
@@ -27,7 +27,7 @@
  </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohadevsn&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="mohadevsn" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohadevsn&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="mohadevsn" /></p> -->
 
 ![Wakatime Stats](https://wakatime.com/share/@397639f1-cca5-434c-834d-c937660d3bcb/ffab768b-5829-4b81-8f42-cc57a2693f5d.svg)
 
