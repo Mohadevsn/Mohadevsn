@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Confidential project**
 
-- 🌱 I’m currently learning **Nest Js**
+- 🌱 I’m currently learning **Computer Vision / ML**
 
 - 📫 How to reach me **mohawade23@gmail.com**
 
